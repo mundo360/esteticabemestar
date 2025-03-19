@@ -1,0 +1,54 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_B6C2D204_AF7C_9800_41D9_228D876A5C25.source = https://g.co/kgs/z93Hc5x
+LinkBehaviour_B62F2AE1_AF63_8801_41E0_43D86CE80E34.source = https://g.co/kgs/z93Hc5x
+LinkBehaviour_B6ECA0B3_AF7C_F800_41DE_CED06F2ED4F9.source = https://search.google.com/local/writereview?placeid=ChIJtciV5tIElwAR4nrpC9-KiV8
+LinkBehaviour_B62FDAE1_AF63_8801_41CE_8C97A796FBB1.source = https://search.google.com/local/writereview?placeid=ChIJtciV5tIElwAR4nrpC9-KiV8
+LinkBehaviour_B62F0AE1_AF63_8801_41DF_BD4510A09107.source = https://wa.me/5522992193685
+LinkBehaviour_B543C485_AF65_9800_41D1_8656696F2594.source = https://wa.me/5522992193685
+LinkBehaviour_B67D3EB5_AF7D_8800_41E0_6CE39CF0DD09.source = https://www.instagram.com/esteticaebemestar.cabofrio/
+LinkBehaviour_B62EEAE0_AF63_883F_41DF_7108EC5E4F52.source = https://www.instagram.com/esteticaebemestar.cabofrio/
+
+## Media
+
+### Title
+panorama_A3F5BB07_AEA4_8814_41C3_E69BFAEBD767.label = 20250310_185859_262-edit
+panorama_A387F524_AEA4_F814_41CB_2A4833870D33.label = 20250310_185906_252-edit
+panorama_A3878E1B_AEA4_883C_41C6_234BE0216B5C.label = 20250310_190033_882-edit
+panorama_A3878AD6_AEA4_8834_41E2_45C12AAB5C7F.label = 20250310_190112_309-edit
+panorama_A38724A6_AEA4_9814_41CC_176982A7972D.label = 20250310_190117_938-edit
+panorama_A386EDE4_AEA4_8814_41DE_A0B4CC865B77.label = 20250310_190122_134-edit
+panorama_A3850FA6_AEA7_8814_41CC_8EC2C335A441.label = 20250310_190339_437-edit
+panorama_A385EA33_AEA7_880C_41E0_A135DB5377DF.label = 20250310_190348_278-edit
+panorama_A38523B4_AEA7_9874_41C4_9159184439D6.label = 20250310_190356_210-edit
+panorama_A38502D2_AEA7_980F_41C7_2CFC275F0024.label = 20250310_190416_145-edit
+panorama_A3851C2A_AEA4_881F_418F_0CA560E4F0A6.label = 20250310_190443_180-edit
+panorama_A38AA5E0_AEA4_B80C_41E2_7068D5C6762E.label = 20250310_190447_852-edit
+panorama_A38A9944_AEA4_8814_41D4_34714C271F3C.label = 20250310_190459_130-edit
+panorama_A38A1DC6_AEA4_8817_41DB_2F94DBECC186.label = 20250310_190510_477-edit
+panorama_A38A56BA_AEA4_987C_41BF_1FB5D4EE8CB5.label = 20250310_190533_956-edit
+panorama_A38ABF90_AEA4_880C_41C4_3D3ABF5531C7.label = Atendimento 1
+panorama_A3853E2F_AEA7_8814_41E3_B98777D57FA2.label = Atendimento 2
+panorama_A38AF852_AEA4_880F_41C1_1E79DB80140B.label = Atendimento 3
+panorama_A384B6AF_AEA7_7814_41DB_3A6793DF6BBA.label = Banheiro
+panorama_A3849160_AEA7_B80C_41AD_962F98EFD6FB.label = Consultório
+panorama_A38578B7_AEA7_8874_41D4_2DA43DC15732.label = Corredor
+panorama_A0B60D71_AEA4_880D_41C4_89A00C8674D1.label = Fachada
+panorama_A387B77B_AEA4_98FC_41E0_EA3A620F1D29.label = Porta Recepção
+panorama_A387614F_AEA4_B814_41D2_C70F34ACABD6.label = Recepção
+
+## Skin
+
+### Label
+Label_B56E05DE_AFA7_B800_41E1_8DDF7AD1EAAE.text = Lista de Ambientes:
+Label_B5D42ECC_AFA4_8800_41B2_E9B037D237DA.text = Lista de Ambientes:
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Clinica bem estar - cabo frio
